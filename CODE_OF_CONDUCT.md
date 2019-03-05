@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. grisglobalorg@gmail.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. admin@grislobal.org
 
 [Reporting guidelines](http://grisglobal.org/code-of-conduct/)
 
@@ -77,7 +77,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-grisglobalorg@gmail.com
+admin@grislobal.org
+partnership@grisglobal.org
 
 ## 11. License and attribution
 
